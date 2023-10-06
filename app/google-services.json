@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387918497217",
+    "project_id": "seven-tigers",
+    "storage_bucket": "seven-tigers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387918497217:android:18f69de1774e2058d85b40",
+        "android_client_info": {
+          "package_name": "io.seventigers.gameslot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsHYv3m33ni29McB5jm56N6zU6a-YiCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387918497217:android:bab64ba8eceb1005d85b40",
+        "android_client_info": {
+          "package_name": "io.seventigers.gameslots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsHYv3m33ni29McB5jm56N6zU6a-YiCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

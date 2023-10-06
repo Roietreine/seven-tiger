@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>appFlyersId</key>
+        <value>xJ3GRFaVQVovPewSQfbp8B</value>
+    </entry>
+
+    <entry>
+        <key>apiURL</key>
+        <value>https://777tiger.site/api/v0/game</value>
+    </entry>
+
+    <entry>
+        <key>policyURL</key>
+        <value>https://jbrsoftapps.com/policy</value>
+    </entry>
+
+    <entry>
+        <key>jsInterface</key>
+        <value>jsBridge</value>
+    </entry>
+
+</defaultsMap>
+

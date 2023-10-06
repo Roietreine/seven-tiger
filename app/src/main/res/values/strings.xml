@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seven Tigers</string>
+
+    <string name="data_consent">We need your permission to send data to  activity for analytics and provide better  user experience</string>
+</resources>
