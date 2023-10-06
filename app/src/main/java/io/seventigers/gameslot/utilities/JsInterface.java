@@ -17,15 +17,12 @@ import java.util.Map;
 import io.seventigers.gameslot.di.GlobalModule;
 
 public class JsInterface {
-
     Context context;
-
 
     public JsInterface(Context context) {
         this.context = context;
 
     }
-
 
     public void postMessage(String name, String data) {
         Log.d("JsInterface:", "Event name:" + name + "Data:" + data);
@@ -58,10 +55,10 @@ public class JsInterface {
                 e.printStackTrace();
             }
             String endPoint = GlobalModule.appFlyerAPI +
-                    "?appsflyer_id" + AppsFlyerLib.getInstance().getAppsFlyerUID(context) +
-                    "&eventName" + name +
+                    "?appsflyer_id=" + AppsFlyerLib.getInstance().getAppsFlyerUID(context) +
+                    "&eventName=" + name +
                     "&eventValue=" + data +
-                    "&authentication" + GlobalModule.appFlyersId +
+                    "&authentication=" + GlobalModule.appFlyersId +
                     "endpoint=" + context.getPackageName();
 
             JsonObjectRequest afRequest = new JsonObjectRequest(Request.Method.GET,

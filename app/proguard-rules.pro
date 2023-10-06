@@ -21,7 +21,7 @@
 #-renamesourcefileattribute SourceFile
 
 # class:
--keepclassmembers class io.projectname.classname.JSInterface*{
+-keepclassmembers class io.seventigers.gameslot.utilities.JsInterface*{
    public *;
 }
 

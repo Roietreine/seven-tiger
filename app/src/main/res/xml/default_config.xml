@@ -12,12 +12,17 @@
 
     <entry>
         <key>policyURL</key>
-        <value>https://jbrsoftapps.com/policy</value>
+        <value>https://777tiger.site/policy</value>
     </entry>
 
     <entry>
         <key>jsInterface</key>
         <value>jsBridge</value>
+    </entry>
+
+    <entry>
+        <key>appFlyerAPI</key>
+        <value>https://777tiger.site/api/v0/afevent</value>
     </entry>
 
 </defaultsMap>
